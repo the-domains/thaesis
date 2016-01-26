@@ -1,14 +1,29 @@
+name: Thaesis
+favicon: null
 layout_spectrum: 0.02391516
 typography_spectrum: 0.003257841
+title: Strategy consulting
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7511653
-  lightness: 0.7428856
-  brandStrength: 0.03670173
-  rhythmicContrast: 0.515803
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: Thaesis
+  brandStrength: 0.03670173
+  lightness: 0.7428856
+  saturation: 0.7511653
+  rhythmicContrast: 0.515803
+purpose: []
