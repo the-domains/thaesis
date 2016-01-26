@@ -1,0 +1,14 @@
+layout_spectrum: 0.02391516
+typography_spectrum: 0.003257841
+color:
+  saturation: 0.7511653
+  lightness: 0.7428856
+  brandStrength: 0.03670173
+  rhythmicContrast: 0.515803
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Thaesis
