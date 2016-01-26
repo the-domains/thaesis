@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thaesis]]></title>
         <description><![CDATA[Thaesis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thaesis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:04:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 20:07:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thaesis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83ebb3c8-fa1c-49b9-a94d-426a12d62aee.JPG">]]></description>
+            <link>https://thegrid.ai/thaesis/b43ed740-9649-4e45-bd1f-0ca0a9ab52b1/index.html</link>
+            <guid isPermaLink="false">b43ed740-9649-4e45-bd1f-0ca0a9ab52b1</guid>
+            <pubDate>Tue, 26 Jan 2016 20:07:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thaesis]]></title>
-            <description><![CDATA[<article><h1>Thaesis</h1><p>Being a successful entrepreneur or effective boardroom executive, you know what it takes to excel in strategic decision making. Your current market conditions require you to act fast and often. The challenge is to align your organization with each new strategic direction. Thaesis involves your organization from the very first moment on. Key roles from within your organization are invited to join the strategy process. That’s how they will get to understand the impact of strategic decisions, acknowledge the strategic direction and become motivated to realize your strategic goals. You and your team will become superbly skilled in strategy. This way, culture facilitates strategy. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ce86033cb079179415334974be7787b11581291.jpg"></article>]]></description>
-            <link>undefinedthaesis/index.html</link>
+            <description><![CDATA[<article><h1>Thaesis</h1><p>Being a successful entrepreneur or effective boardroom executive, you know what it takes to excel in strategic decision making. Your current market conditions require you to act fast and often. The challenge is to align your organization with each new strategic direction. Thaesis involves your organization from the very first moment on. Key roles from within your organization are invited to join the strategy process. That’s how they will get to understand the impact of strategic decisions, acknowledge the strategic direction and become motivated to realize your strategic goals. You and your team will become superbly skilled in strategy. This way, culture facilitates strategy. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e320ccf88803a6bcd406d82a9929f138be071aac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thaesis/thaesis/index.html</link>
             <guid isPermaLink="false">af3c1d4a-8291-4073-b97c-c9ae4126fbe5</guid>
             <pubDate>Tue, 26 Jan 2016 20:04:45 GMT</pubDate>
         </item>
