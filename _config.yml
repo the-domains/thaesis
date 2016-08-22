@@ -1,20 +1,4 @@
-name: Thaesis
-favicon: null
-layout_spectrum: 0.75706
 typography_spectrum: 0.15769
-title: Thaesis
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,21 @@ color:
   lightness: 0.7428856
   saturation: 0.7511653
   rhythmicContrast: 0.515803
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75706
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Thaesis
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Thaesis
+description: Inspiratie * Strategie * Transitie
 purpose: []
